@@ -1,1 +1,3 @@
-Loading to and extracting collections from mongodb
+Loading data to the database using NoSQL;
+
+Extracting collections(data) from mongodb
